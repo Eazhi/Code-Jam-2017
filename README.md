@@ -1,7 +1,7 @@
 # Code-Jam-2017
 Code Jam 2017
 
-#Qualification Round
+# Qualification Round
 
 	- A: Small and Large correct.
 
